@@ -1,2 +1,0 @@
-model,prompt_strategy,combination,avg_fk_score,avg_accuracy,avg_stakeholder,readability_score,clarity_target_pct,accuracy_target_pct,stakeholder_target_pct,overall_target_pct
-nova_pro,few_shot,nova_pro_few_shot,13.865524972918232,4.666666666666667,3.888888888888889,13.134475027081768,66.66666666666666,100.0,66.66666666666666,77.77777777777777
